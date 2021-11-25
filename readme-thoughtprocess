@@ -1,0 +1,5 @@
+My thought process for this request was to read over the Terra-js documentation. 
+This documentation is very different as it highlights the topics and states the code that is needed. 
+After reading this documentation, I visited the code for Terra.js, and saw which parts of the code were included for documentation as only the most important/key features are needed. 
+I am assuming this is to increase runtime efficiency. If a member of terra team is working on the wallet, they can see the wallet code and, make improvement on that code specifically. 
+It took quite some time to understand this code better. 
